@@ -1,0 +1,7 @@
+/* pages/main/single/single.wxss */
+.page{
+  box-sizing: border-box;
+  padding-bottom: 116rpx;
+  overflow: auto;
+  background: grey
+}
